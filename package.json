@@ -1,0 +1,29 @@
+{
+  "name": "w2d3-webpack-tree-shaking",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kelevra82/w2d3-webpack-tree-shaking.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kelevra82/w2d3-webpack-tree-shaking/issues"
+  },
+  "homepage": "https://github.com/Kelevra82/w2d3-webpack-tree-shaking#readme",
+  "devDependencies": {
+    "css-loader": "^7.1.2",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.99.6",
+    "webpack-cli": "^6.0.1"
+  }
+}
